@@ -1,131 +1,5 @@
 [
   {
-    "path": ".git/config",
-    "bytes": 92,
-    "sha256": "cfe7ba1238c9a78be7535d7c63bcaf5a4d5011d46b07c9b45d3bbf7d6c312dfe",
-    "zeroWidth": 0,
-    "lines": 6
-  },
-  {
-    "path": ".git/description",
-    "bytes": 73,
-    "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
-    "zeroWidth": 0,
-    "lines": 2
-  },
-  {
-    "path": ".git/HEAD",
-    "bytes": 21,
-    "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
-    "zeroWidth": 0,
-    "lines": 2
-  },
-  {
-    "path": ".git/hooks/applypatch-msg.sample",
-    "bytes": 482,
-    "sha256": "8bf35846bc3d90db12f711dd961292eb1c617b6f62c2c4e702706b71f2a897b2",
-    "zeroWidth": 0,
-    "lines": 16
-  },
-  {
-    "path": ".git/hooks/commit-msg.sample",
-    "bytes": 1976,
-    "sha256": "01fa6ffa6b38523d58ff05cac0caaa8e76ef48db467749921395519b43b495af",
-    "zeroWidth": 0,
-    "lines": 75
-  },
-  {
-    "path": ".git/hooks/fsmonitor-watchman.sample",
-    "bytes": 4611,
-    "sha256": "9159720099ad5595b8e66645cbfd47763c1e920f46e0b50ae75e642bbec57ef0",
-    "zeroWidth": 0,
-    "lines": 169
-  },
-  {
-    "path": ".git/hooks/post-update.sample",
-    "bytes": 193,
-    "sha256": "d0d00b057e31fbe8207f3a1496797050fcadad75df883842e979a965bd6a298f",
-    "zeroWidth": 0,
-    "lines": 9
-  },
-  {
-    "path": ".git/hooks/pre-applypatch.sample",
-    "bytes": 428,
-    "sha256": "0e01aa4a2a7387a2d06a058113c18faa58e8191b840b45529db82c8ab39521c2",
-    "zeroWidth": 0,
-    "lines": 15
-  },
-  {
-    "path": ".git/hooks/pre-commit.sample",
-    "bytes": 1653,
-    "sha256": "4d44c83bc3c0271d2ecd328b1d08d9af89f928511c02dcd4a4e81b761b6df1f6",
-    "zeroWidth": 0,
-    "lines": 50
-  },
-  {
-    "path": ".git/hooks/pre-merge-commit.sample",
-    "bytes": 420,
-    "sha256": "6e9d4320214965de9ec5bf4a94cde33d9f0c32c8085926277664d0f494fef7cc",
-    "zeroWidth": 0,
-    "lines": 14
-  },
-  {
-    "path": ".git/hooks/pre-push.sample",
-    "bytes": 1378,
-    "sha256": "329a5f4509a242b8d1916ec617f85a5383190b34ac35d414224091ed9ceb2dd6",
-    "zeroWidth": 0,
-    "lines": 54
-  },
-  {
-    "path": ".git/hooks/pre-rebase.sample",
-    "bytes": 4902,
-    "sha256": "c1dd258307167752e34fc068c7c00cb2579341fea2b345fde037e718f53158ba",
-    "zeroWidth": 0,
-    "lines": 170
-  },
-  {
-    "path": ".git/hooks/pre-receive.sample",
-    "bytes": 548,
-    "sha256": "f6db83ee6e0153ace9f9de7a0a15f4902e33ebd3051b5f4d4587c9a5c8a07659",
-    "zeroWidth": 0,
-    "lines": 25
-  },
-  {
-    "path": ".git/hooks/prepare-commit-msg.sample",
-    "bytes": 1496,
-    "sha256": "cc523274bd28fe45bbc580bbb5a9312fe88b2bb5ae5b845919c20618a34e1b03",
-    "zeroWidth": 0,
-    "lines": 43
-  },
-  {
-    "path": ".git/hooks/push-to-checkout.sample",
-    "bytes": 2787,
-    "sha256": "e1acad23702af2ad4c58bd616d399ab8f0fe5a470f044f20ac497aded0f45ec5",
-    "zeroWidth": 0,
-    "lines": 79
-  },
-  {
-    "path": ".git/hooks/sendemail-validate.sample",
-    "bytes": 2312,
-    "sha256": "23a33477f01ffe5246b46a9d1db7c39d73d193ce19ed4116e00cbb031ec5f2eb",
-    "zeroWidth": 0,
-    "lines": 78
-  },
-  {
-    "path": ".git/hooks/update.sample",
-    "bytes": 3654,
-    "sha256": "1b21448c0c321a3004d8db76adc43d14b8b3c948dadc57795ffe8e5f0726aae1",
-    "zeroWidth": 0,
-    "lines": 129
-  },
-  {
-    "path": ".git/info/exclude",
-    "bytes": 240,
-    "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
-    "zeroWidth": 0,
-    "lines": 7
-  },
-  {
     "path": "AI-Jailbreaks/.Multi-AI/Bladwin67.txt",
     "bytes": 13965,
     "sha256": "88851f15206d1b7312a6c19028867f1dd0be95e7a518d8f7aabfffc2fa22ae32",
@@ -61374,5 +61248,12 @@
     "sha256": "7f291ad6177434bfccae38ac05c19ae0c5798b09d0f7ee716b7cddcf58b2f81d",
     "zeroWidth": 0,
     "lines": 2
+  },
+  {
+    "path": "README.md",
+    "bytes": 1636,
+    "sha256": "e495572d2a5e1474fe40635547c37ccd84dbc6c078e123df5c96bdd3f1a78664",
+    "zeroWidth": 0,
+    "lines": 30
   }
 ]

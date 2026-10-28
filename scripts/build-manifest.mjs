@@ -21,7 +21,7 @@ walk(ROOT);
 const entries = [];
 for (const f of FILES) {
   const rel = relative(ROOT, f).split(sep).join("/");
-  if (rel === "manifest.json" || rel.startsWith("scripts/")) continue;
+  if (rel.startsWith(".git/") || rel === "manifest.json" || rel.startsWith("scripts/")) continue;
   const buf = readFileSync(f);
   // Zero-width chars: U+200B/200C/200D/2060 + BOM/FEFF + soft hyphen
   const text = buf.toString("utf8");
